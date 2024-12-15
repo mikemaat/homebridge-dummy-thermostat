@@ -12,7 +12,7 @@ import {
 
 import path from 'path';
 
-const heatingCoolingStates = ['OFF', 'HEATING', 'COOLING', 'AUTO'];
+const heatingCoolingStates = ['OFF', 'HEATING'];
 const temperatureDisplayUnits = ['C°', 'F°'];
 
 export default class Thermostat implements AccessoryPlugin {
