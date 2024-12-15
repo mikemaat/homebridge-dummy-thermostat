@@ -1,20 +1,20 @@
 {
-  "name": "homebridge-dummy-thermostat",
-  "version": "1.1.0",
+  "name": "homebridge-dummy-thermostat-mikemaat",
+  "version": "1.1.1",
   "description": "Plugin for homebridge to create a fake thermostat accessory",
   "main": "dist/index.js",
   "keywords": [
     "homebridge-plugin"
   ],
-  "author": "David Borzek",
+  "author": "Mike Maat",
   "license": "Unlicense",
   "bugs": {
-    "url": "https://github.com/davidborzek/homebridge-dummy-thermostat/issues"
+    "url": "https://github.com/mikemaat/homebridge-dummy-thermostat/issues"
   },
-  "homepage": "https://github.com/davidborzek/homebridge-dummy-thermostat#readme",
+  "homepage": "https://github.com/mikemaat/homebridge-dummy-thermostat#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/davidborzek/homebridge-dummy-thermostat.git"
+    "url": "git+https://github.com/mikemaat/homebridge-dummy-thermostat.git"
   },
   "scripts": {
     "format": "prettier --write src/",
